@@ -13,6 +13,18 @@ The datas were saved into many linkedlist according to their header, which are t
 
 I've decided to change the file in the data folder. I discovered that for some movie titles, there might be a extra commas inside of it, therefore, I've decided to change the coma into a semi-colon to avoid error in reading in those datas. 
 
+## Setup for Data Visualization
+
+For the Data Visualization, I've used Python to create the graph and using Window. These are the steps for use with Window and Command Line.
+
+1. Download and Install Python from https://www.python.org/downloads/ if your devide doesn't have python.
+2. Go to https://github.com/victorliangzheng88/A4---Movie-Genres.git using web browser.
+3. Download the files in the folder called `data` and the file name is `DataVisualization` and save it in your computer.
+4. Open the command line in your window by pressing `Window`+`R` and type `cmd`.
+5. Type `pip install pandas` and `python -m pip install -U pip` and `python -m pip install -U matplotlib`
+6. Open IDLE for python and select `File`, `Open` and chose the file `DataVisualization` that you've just downloaded.
+7. After the file was opened, Click `Run` and `Run Module`.
+
 ## Setup
 
 These are the steps to compile `A4.java` and run the program `A4`. Source code is found in the src folder. These steps are for use with command line workflow such as with a terminal.
