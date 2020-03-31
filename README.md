@@ -1,4 +1,4 @@
-# A3---Movie-Titles
+# A4---Movie-Genres
 
 This project demonstrates how to read in a csv files of movie genres and parse that data into a linkedlist. With that data, we are required to answer three quesitons:
 1. How many movies are classified under each genre?
