@@ -1,3 +1,5 @@
+#This program answer the question of: Under Which genre that most movies are classified? And the answer is Drama.
+
 from pandas import DataFrame
 import matplotlib.pyplot as plt
    
