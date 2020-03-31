@@ -3,7 +3,7 @@
 This project demonstrates how to read in a csv files of movie genres and parse that data into a linkedlist. With that data, we are required to answer three quesitons:
 1. How many movies are classified under each genre?
 2. How many for the whole data set versus the most recent 5 years?
-3. How many movies of each genre came out each year?
+3. How many movies of each genre came out each decade?
 
 In this project, I've used Linked List, HashMap and Array.
 
