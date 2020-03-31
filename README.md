@@ -104,7 +104,7 @@ Western Movies:		[0, 0, 4, 10, 17, 28, 14, 12, 33, 34, 15]
 
 # Data Visualization
 
-I've chose python to create my graph to answer the question: Under which genre that most movies are classified? The datas to answer this question were extracted from the first part of the `A4.java`. The answer for the question is that Drama is the genre that has the greatest number of movies classified under. The second genre that has the greatest number is Comedy. `Figure_1` is presentation of the graph of the question.
+I've chose python to create my graph to answer the question: Under which genre that most movies are classified? The datas to answer this question were extracted from the first part of the `A4.java`. The answer for the question is that Drama is the genre that has the greatest number of movies classified under. The second genre that has the greatest number is Comedy.
 
 ## Setup for Data Visualization
 
